@@ -26,7 +26,8 @@ footer {
 }
 
 section {
-    width: 80vw;
+    width: 60vw;
+    
     margin: 0 auto;
     display: flex;
     gap: 10px;
@@ -49,13 +50,12 @@ h2 {
 }
 
 img {
-    width: 35vw;
+    width: 30vw;
     border-radius: 10px;
     align-items: center;
     justify-content: center;
 }
 
 article, div {
-    flex: 1; 
-    
+    flex: 1;
 }
